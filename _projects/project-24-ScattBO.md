@@ -10,7 +10,7 @@ team_leads:
 contributors:
 #  - Name (Affiliation)
 
-# github: AC-BO-Hackathon/project-ScattBO
+# github: AndySAnker/ScattBO
 # youtube_video: <your-video-id>
 
 ---
