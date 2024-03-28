@@ -9,6 +9,8 @@ team_leads:
 # Comment these lines by prepending the pound symbol (#) to each line to hide these elements
 contributors:
   - Samuel Ampofo Appiah (Ghana National Gas Company)
+  - Giuseppe Fisicaro (CNR Institute for Microelectronics and Microsystems, Catania, Italy)
+  - Gabriel L. Graves (Georgia Institute of Technology)
 
 # github: AC-BO-Hackathon/project-ScattBO
 # youtube_video: <your-video-id>
